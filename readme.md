@@ -6,7 +6,7 @@ get_cik_num.py allow us to create a new file with companies and their cik number
 
 get_filing_data.ipynb :
     - inputs : liste_cik, filing type (10-k, 10-q, 8-k..)
-    - ouputs exemple : {'filing_aapl': [{'file_type': '10-Q',
+    - ouput exemple : {'filing_aapl': [{'file_type': '10-Q',
                         'file_number': '001-36743231141522',
                         'file_date': '2023-08-04',
                         'links': {'documents': 'https://www.sec.gov/Archives/edgar/data/320193/000032019323000077/0000320193-23-000077-index.htm',
