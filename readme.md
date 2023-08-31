@@ -1,6 +1,6 @@
 Some scripts for web scrapping filing and financial data from sec.
 
-get_cik_num.py allow us to create a new file with companies and their cik number from two files; 
+get_cik_num.py allow us, from two files, to create a new file with companies and their cik number; 
     - liste_cik_complete.txt which repertories all companies with their cik number,
     - liste_NASDAQ.txt which repertories all companies who belong to NASDAQ index
 
