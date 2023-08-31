@@ -1,0 +1,10 @@
+
+requests
+requests_random_user_agent
+openpyxl
+pandas 
+BeautifulSoup
+urlparse 
+urlunparse
+re
+csv
